@@ -1,81 +1,81 @@
 # Artificial Intelligence Modelling Project
 
-This repository contains my individual academic work for an Artificial Intelligence course. The assignments are organized as one complete **Artificial Intelligence Modelling Project**.
+This repository demonstrates an end-to-end machine learning workflow implemented in Python.  
+The project showcases the complete process of building an AI system, including data preprocessing, feature engineering, model training, and performance evaluation.
 
-The project shows the full process of building AI models, starting from data preparation and ending with model evaluation.
+The objective of this project is to demonstrate practical experience with real-world machine learning development using Python and industry-standard libraries.
 
 ---
 
 ## Project Overview
 
-The goal of this project is to:
+This project follows a structured machine learning pipeline:
 
-* Prepare and explore data
-* Select useful features
-* Train machine learning models
-* Test and compare model performance
-* Interpret and explain results
+- Data preparation and exploration
+- Feature engineering and transformation
+- Training machine learning models
+- Evaluating and comparing model performance
 
-Each assignment represents one stage of the AI modelling process.
+Each folder in the repository represents a different stage of the machine learning workflow.
 
 ---
 
 ## Repository Structure
 
-### 📂 Assignment 1 – Data Preparation & Exploration
+### 📂 Data-Preparation-and-EDA01
+- Data cleaning
+- Handling missing values
+- Exploratory Data Analysis (EDA)
+- Data visualization and statistical analysis
 
-* Data cleaning
-* Handling missing values
-* Exploratory Data Analysis (EDA)
-* Basic visualization
+### 📂 Feature-Engineering-Pipeline02
+- Feature selection
+- Data transformation
+- Preparing datasets for machine learning models
 
-### 📂 Assignment 2 – Feature Engineering
+### 📂 Machine-Learning-Model-Training03
+- Implementing machine learning algorithms
+- Training models using structured data
+- Hyperparameter tuning and optimization
 
-* Feature selection
-* Data transformation
-* Preparing data for models
-
-### 📂 Assignment 3 – Model Training
-
-* Building machine learning models
-* Applying supervised learning algorithms
-* Training and tuning models
-
-### 📂 Assignment 4 – Model Evaluation
-
-* Testing model performance
-* Comparing different algorithms
-* Using accuracy and other evaluation metrics
+### 📂 Model-Evaluation-and-Performance04
+- Testing model performance
+- Comparing different machine learning models
+- Evaluating results using metrics such as accuracy, precision, recall, and F1-score
 
 ---
 
-## Tools & Technologies
+## Technologies Used
 
-* Python
-* Jupyter Notebook
-* Pandas, NumPy
-* Matplotlib / Seaborn
-* Scikit-learn
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ---
 
 ## Skills Demonstrated
 
-* Data preprocessing
-* Feature engineering
-* Machine learning model building
-* Model evaluation and comparison
-* Analytical thinking and reporting
+- Data preprocessing and cleaning
+- Feature engineering
+- Machine learning model development
+- Model evaluation and comparison
+- Data visualization and analysis
 
 ---
 
-## Purpose
+## Project Purpose
 
-This project was completed as part of an Artificial Intelligence course to gain hands-on experience with real-world AI modelling techniques. It demonstrates the ability to apply theory into practical machine learning solutions.
+This project demonstrates the full lifecycle of building machine learning models using structured data.  
+It highlights practical skills in data preparation, model development, and performance evaluation commonly used in real-world AI and data science projects.
 
 ---
 
 ## Author
 
 **Nitin Ruhil**
-Individual Academic Project – Artificial Intelligence Modelling
+
+Machine Learning and Artificial Intelligence Projects
